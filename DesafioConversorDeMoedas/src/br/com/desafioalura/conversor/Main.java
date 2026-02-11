@@ -11,7 +11,7 @@ public class Main {
 
         //Menu Principal
         do {
-            System.out.println("br.com.desafioalura.conversor.Conversor de Moedas\n");
+            System.out.println("Conversor de Moedas\n");
             System.out.println("Mais usadas:");
             System.out.println("1) Dólar americano para Real brasileiro");
             System.out.println("2) Real brasileiro para Dólar americano");
